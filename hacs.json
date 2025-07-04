@@ -1,0 +1,10 @@
+{
+  "name": "Liebi Custom Icons",
+  "filename": "ha-icons.js",
+  "content_in_root": false,
+  "description": "Custom SVG iconset for Home Assistant",
+  "authors": ["rliebi"],
+  "country": "ch",
+  "file_type": "js",
+  "source": "dist/ha-icons.js"
+}
