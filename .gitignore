@@ -1,0 +1,55 @@
+# PhpStorm project files
+.idea/
+*.iml
+
+# Byte-compiled / optimized / dependency files
+__pycache__/
+*.py[cod]
+*.swp
+*.swo
+
+# Node and frontend
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+
+# Home Assistant
+*.db
+*.db-shm
+*.db-wal
+home-assistant.log
+home-assistant.log.*
+secrets.yaml
+custom_components/*/__pycache__/
+
+# Python virtualenv
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# OS trash
+.Trashes
+*.~*
+
+# SVG optimization tools
+*.bak.svg
+
+# VSCode (if also used)
+.vscode/
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Git
+.gitignore
